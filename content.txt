@@ -1,103 +1,160 @@
+Midwifery
+General Placement Information
+Q: Where can I find placement information?
+A: Please go to the placement section of the student sharepoint. This can be found by clicking on the “your learning” section and then “practice learning” or via the direct link below: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
+Placement Location
+Q: Where will my placement be?
+A: Midwifery Placements are allocated across the following trust partners:
+Chesterfield Royal Hospital NHS Foundation Trust
+Nottingham University Hospitals NHS Trust
+Sherwood Forest Hospitals NHS Foundation Trust
+University Hospitals of Derby & Burton NHS Foundation Trust... Students will be allocated to “home” and “away” bases during the programme and so will be expected to experience at least two of the above practice organisations. Students will be allocated their “away” base in year one of the programme and their “home” base in years two and three. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-1. Patient Introduction
-Name: Walid Mohammed
+Placement Allocation How
+Q: How is my Placement allocated to me?
+A: Placements are allocated by the Placement Allocation team who will ensure you experience a range of placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-Age: 33 (DOB: 29 October 1990)
+Find placement allocation
+Q: Where can I see my placement allocation?
+A: You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-Background:
+When will I find out placement
+Q: When will I find out my placement?
+A: We aim to release as much information as possible at the start of the academic year. It may not always be possible to release a full year at this stage. Students will know their base for the full year.
 
-IT professional at a city-centre bank (1 year in role).
+Placement block dates
+Q: Where can I find out the dates for my placement blocks?
+A: Placement blocks are found on the UG academic planner which is found on your BSc Midwifery (all years) Moodle page
 
-Moved to the UK 3 years ago with wife and two young children.
+My placement is further away than I would like.
+A: We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement. If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Placement adjustment process.
 
-History of stress/anxiety linked to job, cultural adjustment, and financial pressures (sole income earner).
+Can I find my own placement?
+A: No, you are unable to find your own placements as standard with the exception of the elective placement. All standard placements are arranged by us to ensure they have completed an audit and meet our quality standards. Information about the elective will be presented within your programme module.
 
-2. Symptom Assessment Flow
-Chatbot Prompt (Q1):
-"Hi Walid. Your GP mentioned low back pain. Can you describe when it started and how it’s affecting you?"
+Placement Exchange & Special Consideration
+Q: Is it possible to change/swap my placement?
+A: Allocated placements can be swapped via placement exchange during the allotted window. Details will be sent to when the window opens and can be found on the placement sharepoint: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FSiteAssets%2FSitePages%2FPlacement%2DInformation... Changes of placement outside of placement exchange is managed via the special considerations process. Details of criteria and the special considerations process can be found within your profession specific placement guidance document available on sharepoint: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Your-Practice-Placement-Guide.aspx
+Guidance on how to apply can be also be found on sharepoint here: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents%2FInstructions%20for%20Completing%20Special%20Considerations%20on%20PebblePad%20%2D%20December%202023%2Epdf&parent=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents
+If you think you have a case which requires special considerations, please seek support and guidance from your personal tutor.
 
-User Input Options (structured):
+Nursing
+General Placement Information
+Q: Where can I find placement information?
+A: Please go to the placement section of the student sharepoint. This can be found by clicking on the “your learning” section and then “practice learning” or via the direct link below:https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-Onset: 8 months ago.
+Placement Location
+Q: Where will my placement be?
+A: Placements are allocated accross our placement circuit to ensure a breadth of experience. You will be informed when allocations have been released to students. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-Location: Lower back (right side), radiating to buttocks and thighs (not below knees).
+Placement Allocation How
+Q: How is my Placement allocated to me?
+A: Placements are allocated by the Placement Allocation team who will ensure you experience a range of placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-Pain Type: Dull/stiff (severity: 7/10).
+Find placement allocation
+Q: Where can I see my placement allocation?
+A: You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-Triggers: Sitting, bending, lifting children.
+When will I find out placement
+Q: When will I find out my placement?
+A: Placements are released individually as soon as we have confirmation from practice partners. We aim to release placements as early as possible. Where we are unable to release placements 4 weeks in advance, we will let you know.
 
-Impact: Sleep disruption, reduced activity, weight loss (5–6 kg), anxiety about long-term health.
+Placement block dates
+Q: Where can I find out the dates for my placement blocks?
+A: Placement blocks are found on the UG academic planner which is found on your BSc/GEN all years moodle page.
 
-Follow-Up Questions (conditional logic):
+My placement is further away than I would like.
+A: We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement. If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Special considerations process.
 
-"Does the pain include tingling, numbness, or weakness in your legs?"
-→ No.
+Can I find my own placement?
+A: No, you are unable to find your own placements as standard with the exception of the elective placement. All standard placements are arranged by us to ensure they have completed an audit and meet our quality standards. Information about the elective will be presented within your programme module.
 
-"Have painkillers (e.g., paracetamol) helped?"
-→ No relief.
+Can I go abroad for my elective?
+A: This is more challenging since the NMC implemented SSSA requirements. All placements need a PA and PS to make the placement hours count. We can discuss if there is a way to manage this but currently we are not set up to do this as a standard elective placement.
 
-"How has stress affected your pain?"
-→ Linked to job demands and fear of worsening symptoms.
+Can I go to a charity for my elective?
+A: Potentially, we would ned to look at how the SSSA system would work. You need a PA and PS for any placement to count in hours.
 
-3. Medical & Family History
-Chatbot Prompts:
+Placement Exchange & Special Consideration
+Q: Is it possible to change/swap my placement?
+A: Allocated placements can be swapped via placement exchange during the allotted window. Details will be sent to you following each placement release and can be found on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FSiteAssets%2FSitePages%2FPlacement%2DInformation%2FPlacement%2DExchange%2DGuidance%2Epdf&parent=%2Fsites%2FSoHSStudentExperience2%2FSiteAssets%2FSitePages%2FPlacement%2DInformation
+Changes of placement outside of placement exchange is managed via the special considerations process. Details of criteria and the special considerations process can be found within your profession specific placement guidance document available on sharepoint: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Your-Practice-Placement-Guide.aspx
+Guidance on how to apply can be also be found on sharepoint here: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents%2FInstructions%20for%20Completing%20Special%20Considerations%20on%20PebblePad%20%2D%20December%202023%2Epdf&parent=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents
+If you think you have a case which requires special considerations, please seek support and guidance from your personal tutor.
 
-"Do you have other health conditions or take medications?"
-→ No smoking/drinking. No prior diagnoses.
+Physiotherapy
+General Placement Information
+Q: Where can I find placement information?
+A: Please go to the placement section of the student sharepoint. This can be found by clicking on the “your learning” section and then “practice learning” or via the direct link below: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx More information can be found on Moodle PHRS2030, and PHRS3200
 
-"Family history of chronic conditions?"
-→ Mother: hypertension. Father: high cholesterol. Uncle: severe back issues (limited mobility).
+Placement Location
+Q: Where will my placement be?
+A: Placements are allocated accross our placement circuit to ensure a breadth of experience. You will be informed when allocations have been released to students. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-4. Functional Impact Assessment
-Chatbot Tools:
+Placement Allocation How
+Q: How is my Placement allocated to me?
+A: Placements are allocated by the Placement Allocation team who will ensure you experience a range of placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-Pain Severity Scale: 0–10 rating (back: 7/10, leg: 7/10).
+Find placement allocation
+Q: Where can I see my placement allocation?
+A: You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-Activity Limitations:
+When will I find out placement
+Q: When will I find out my placement?
+A: Placements are released individually as soon as we have confirmation from practice partners. We aim to release placements as early as possible. Where we are unable to release placements 4 weeks in advance, we will let you know.
 
-"What activities can’t you do due to pain?"
-→ Football, gym, playing with children.
+Placement block dates
+Q: Where can I find out the dates for my placement blocks?
+A: Placement dates are on the academic year planner. These can be found on your BSc Physiotherapy (all years) moodle page.
 
-"How does pain affect your work?"
-→ Stressful IT role with prolonged sitting.
+My placement is further away than I would like.
+A: We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement. If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Special considerations process.
 
-5. Physical Exam Simulation (AI Adaptation)
-(Since chatbots can’t perform physical exams, use descriptive prompts.)
+Can I find my own placement?
+A: No, you are unable to find your own placement. All of our placements are arranged by us to ensure they have completed an audit and meet our quality standards.
 
-Chatbot Instructions:
+Placement Exchange & Special Consideration
+Q: Is it possible to change/swap my placement?
+A: Allocated placements can be swapped via placement exchange during the allotted window. Details will be sent to you following each placement release and can be found on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FSiteAssets%2FSitePages%2FPlacement%2DInformation
+Changes of placement outside of placement exchange is managed via the special considerations process. Details of criteria and the special considerations process can be found within your profession specific placement guidance document available on sharepoint: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Your-Practice-Placement-Guide.aspx
+Guidance on how to apply can be also be found on sharepoint here: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents%2FInstructions%20for%20Completing%20Special%20Considerations%20on%20PebblePad%20%2D%20December%202023%2Epdf&parent=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents
+If you think you have a case which requires special considerations, please seek support and guidance from your personal tutor.
 
-"Can you bend forward and describe any pain or stiffness?"
-→ "Pain worsens when bending, lasts 2+ hours."
+Sports Rehabilitation
+General Placement Information
+Q: Where can I find placement information?
+A: On Moodle "BSc Sport Rehabilitation All Cohorts" you will find a "placement information" with generic information regarding placements.
 
-"Try lifting a light object (e.g., a book). Does this trigger pain?"
-→ "Yes, similar to lifting my children."
+Placement Location
+Q: Where will my placement be?
+A: Placements are allocated accross our placement circuit to ensure a breadth of experience. You will be informed when allocations have been released to students. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-"Rate your discomfort when standing on one leg."
-→ Right leg: difficult.
+Placement Allocation How
+Q: How is my Placement allocated to me?
+A: Placements are allocated by the Placement Allocation team who will ensure you experience placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-6. Empathetic Reassurance & Next Steps
-Chatbot Responses:
+Find placement allocation
+Q: Where can I see my placement allocation?
+A: You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-"It sounds like this pain is really impacting your daily life. Let’s work on a plan together."
+When will I find out placement
+Q: When will I find out my placement?
+A: Placements are released individually as soon as we have confirmation from practice partners. We aim to release placements as early as possible. Where we are unable to release placements 4 weeks in advance, we will let you know.
 
-Recommendations:
+Placement block dates
+Q: Where can I find out the dates for my placement blocks?
+A: Placement dates are on the academic year planner. These can be found on your BSc Sport Rehabilitation (all years) moodle page.
 
-Stress Management: Referral to mindfulness resources or counselling.
+My placement is further away than I would like.
+A: We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement. If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Special considerations process.
 
-Exercise Modification: Gentle stretching/yoga (avoid aggravating movements).
+Can I find my own placement?
+A: No, you are unable to find your own placement. All of our placements are arranged by us to ensure they have completed an audit and meet our quality standards.
 
-Clinical Follow-Up: Suggest physiotherapy for mobility training.
-
-Safety Netting: "If you develop leg weakness or numbness, contact your GP urgently."
-
-Why This Works for AI/Chatbot Use
-Structured Data Capture: Clear categories (symptoms, history) enable automated triage and documentation.
-
-Conditional Logic: Follow-up questions adapt to user inputs (e.g., radiating pain triggers nerve checks).
-
-Empathy & Clarity: Reassuring tone reduces anxiety, while plain language improves understanding.
-
-Actionable Outputs: Directs users to next steps (exercises, referrals) based on responses.
-
-This format balances clinical rigor with conversational usability, making it ideal for AI-driven healthcare interactions.
+Placement Exchange & Special Consideration
+Q: Is it possible to change/swap my placement?
+A: Allocated placements can be swapped via placement exchange during the allotted window. Details will be sent to you following each placement release and can be found on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SiteAssets/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FSiteAssets%2FSitePages%2FPlacement%2DInformation
+Changes of placement outside of placement exchange is managed via the special considerations process. Details of criteria and the special considerations process can be found within your profession specific placement guidance document available on sharepoint: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Your-Practice-Placement-Guide.aspx
+Guidance on how to apply can be also be found on sharepoint here: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents%2FInstructions%20for%20Completing%20Special%20Considerations%20on%20PebblePad%20%2D%20December%202023%2Epdf&parent=%2Fsites%2FSoHSStudentExperience2%2FShared%20Documents%2FPlacement%20Documents
+If you think you have a case which requires special considerations, please seek support and guidance from your personal tutor.
