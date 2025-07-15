@@ -1,5 +1,6 @@
 import os
 import pickle
+import sys
 import numpy as np
 from flask import Flask, request, jsonify, render_template
 from openai import OpenAI, OpenAIError
@@ -13,6 +14,7 @@ if not OPENAI_API_KEY:
     raise ValueError("OPENAI_API_KEY not set")
 else:
     print("OPENAI_API_KEY found and loaded")
+
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 EMBEDDINGS_FILE = "embeddings.pkl"
@@ -87,7 +89,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     """Serve the chatbot UI."""
-    return render_template('index.html')
+    return render_template('index.html')  # Ensure `templates/index.html` exists
 
 @app.route('/chat', methods=['POST'])
 def chat():
@@ -132,14 +134,15 @@ def health():
     """Health check endpoint for Render and monitoring."""
     return "ok", 200
 
+# --- Entrypoint ---
+
 if __name__ == "__main__":
-    import sys
     print(f"Running app.py with arguments: {sys.argv}")
     if len(sys.argv) > 1 and sys.argv[1] == "embed":
         print("Generating embeddings...")
         build_embeddings()
         print("Embeddings saved.")
     else:
-        port = int(os.environ.get("PORT", 10000))
+        port = int(os.environ.get("PORT", 5000))  # Port set by Render
         print(f"Starting Flask app on port {port}")
         app.run(host="0.0.0.0", port=port)
